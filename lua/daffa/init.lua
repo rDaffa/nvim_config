@@ -1,0 +1,8 @@
+require("daffa.set")
+require("daffa.cmp") 
+require("daffa.LSP")
+require("daffa.rust") 
+require("daffa.nvim-tree")
+require("daffa.telescope")
+require("mason").setup()
+print("loading lua/daffa") 
